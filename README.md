@@ -1,4 +1,5 @@
 # Gradle_java
+
 Kindly follow the following steps to build this application from command line
 Step1:
 Move to the root repository of the application
