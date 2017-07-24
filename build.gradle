@@ -1,0 +1,7 @@
+apply plugin: 'java'
+apply plugin: 'application'
+
+mainClassName= 'jenison.Jenison'
+
+//the single quotes is not the usual single quote,it is not found in usual keyboards.
+//it is left single quote mark ,copy this quote " ' "
